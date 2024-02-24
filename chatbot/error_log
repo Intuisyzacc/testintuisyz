@@ -1,0 +1,26 @@
+[08-Jan-2024 10:51:47 UTC] PHP Fatal error:  Call to undefined function generateRandomCaptcha() in /home/digital/public_html/Ads/index.php on line 620
+[08-Jan-2024 10:51:48 UTC] PHP Fatal error:  Call to undefined function generateRandomCaptcha() in /home/digital/public_html/Ads/index.php on line 620
+[09-Jan-2024 05:36:16 UTC] PHP Warning:  move_uploaded_file(cv/job career.docx): failed to open stream: No such file or directory in /home/digital/public_html/Ads/job.php on line 33
+[09-Jan-2024 05:36:16 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8shWnp' to 'cv/job career.docx' in /home/digital/public_html/Ads/job.php on line 33
+[09-Jan-2024 05:44:28 UTC] PHP Warning:  move_uploaded_file(/cv/title.docx): failed to open stream: No such file or directory in /home/digital/public_html/Ads/job.php on line 33
+[09-Jan-2024 05:44:28 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpyj3VdY' to '/cv/title.docx' in /home/digital/public_html/Ads/job.php on line 33
+[09-Jan-2024 06:56:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/digital/public_html/Ads/datasend.php on line 57
+[09-Jan-2024 06:57:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/digital/public_html/Ads/datasend.php on line 57
+[11-Jan-2024 11:04:57 UTC] PHP Notice:  Undefined index: cv in /home/digital/public_html/Ads/job.php on line 28
+[11-Jan-2024 11:04:57 UTC] PHP Notice:  Undefined index: cv in /home/digital/public_html/Ads/job.php on line 29
+[11-Jan-2024 11:05:04 UTC] PHP Notice:  Undefined index: cv in /home/digital/public_html/Ads/job.php on line 28
+[11-Jan-2024 11:05:04 UTC] PHP Notice:  Undefined index: cv in /home/digital/public_html/Ads/job.php on line 29
+[11-Jan-2024 11:05:11 UTC] PHP Notice:  Undefined index: cv in /home/digital/public_html/Ads/job.php on line 28
+[11-Jan-2024 11:05:11 UTC] PHP Notice:  Undefined index: cv in /home/digital/public_html/Ads/job.php on line 29
+[06-Feb-2024 08:45:50 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/digital/public_html/chatbot/404.php on line 40
+[06-Feb-2024 08:45:50 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/digital/public_html/chatbot/404.php on line 40
+[06-Feb-2024 08:45:50 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/digital/public_html/chatbot/404.php on line 88
+[06-Feb-2024 08:45:50 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/digital/public_html/chatbot/404.php on line 88
+[06-Feb-2024 08:45:57 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/digital/public_html/chatbot/404.php on line 40
+[06-Feb-2024 08:45:57 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/digital/public_html/chatbot/404.php on line 40
+[06-Feb-2024 08:45:57 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/digital/public_html/chatbot/404.php on line 88
+[06-Feb-2024 08:45:57 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/digital/public_html/chatbot/404.php on line 88
+[06-Feb-2024 08:46:53 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/digital/public_html/chatbot/404.php on line 40
+[06-Feb-2024 08:46:53 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/digital/public_html/chatbot/404.php on line 40
+[06-Feb-2024 08:46:53 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/digital/public_html/chatbot/404.php on line 88
+[06-Feb-2024 08:46:53 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/digital/public_html/chatbot/404.php on line 88

@@ -1,0 +1,271 @@
+RewriteEngine On
+RewriteRule ^digital/$ https://intuisyz.com/digital.php [R=301,L]
+RewriteEngine On
+RewriteRule ^blog/$ /blog.php [R=301,L]
+RewriteEngine On
+RewriteRule ^det_career\.php$ /career.php [R=301,L]
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.intuisyz\.com$ [NC]
+RewriteRule ^(.*)$ https://intuisyz.com/$1 [L,R=301]
+
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTPS} off
+    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+    RewriteCond %{REQUEST_URI} ^/digital/seo-company-in-kerala\.php$
+    RewriteRule ^(.*)$ https://intuisyz.com/search-engine-optimization.php [R=301,L]
+</IfModule>
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTPS} off
+    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+    RewriteRule ^digital/social-media-optimization\.php$ https://intuisyz.com/social-media-optimization.php [R=301,L]
+</IfModule>
+
+Redirect 301 /digital-marketing/web-development.php https://intuisyz.com/web-development.php
+Redirect 301 /digital/web-development.php https://intuisyz.com/web-development.php
+Redirect 301 /web-designing-portfolio.php https://intuisyz.com/portfolio-webdesign.php
+Redirect 301 /digital/social-media-advertising.php https://intuisyz.com/social-media-advertising.php
+Redirect 301 /blog-post/using-google-adds.php https://intuisyz.com/blog/using-google-adds-how-can-you-achieve-business-goals.php
+Redirect 301 /using-google-adds.php https://intuisyz.com/google-ads-management.php
+Redirect 301 /10-mistakes-businesses-do-with-seo.php https://intuisyz.com/blog/the-10-mistakes-businesses-do-with-seo.php
+Redirect 301 /digital-marketing/web-design/web-premium-website.php https://intuisyz.com/web-design.php
+Redirect 301 /blog-post/brand-agencies-in-kerala.php https://intuisyz.com/blog/brand-agencies-in-kerala.php
+Redirect 301 /blog-post/things-to-learn-about-performance-marketing.php https://intuisyz.com/blog/things-to-learn-about-performance-marketing.php
+Redirect 301 /brand-agencies-in-kerala.php https://intuisyz.com/blog/brand-agencies-in-kerala.php
+Redirect 301 /blog/software-companies-kochi/ https://intuisyz.com/blog/software-companies-kochi.php
+Redirect 301 /blog-post/digital-marketing-consulting.php https://intuisyz.com/blog/digital-marketing-consulting.php
+Redirect 301 /blog/tag/online-advertising-kochi/ https://intuisyz.com/blog.php
+
+Redirect 301 /blog-post/10-mistakes-businesses-do-with-seo.php https://intuisyz.com/blog/the-10-mistakes-businesses-do-with-seo.php
+Redirect 301 /blog-post/why-branding-is-misunderstood.php https://intuisyz.com/blog/why-branding-is-misunderstood.php
+Redirect 301 /blog/2016/05/21/digital-marketing-how-you-can-still-win-the-race/ https://intuisyz.com/blog/digital-marketing-how-you-can-still-win-the-race.php
+Redirect 301 /blog/digital-marketing-how-you-can-still-win-the-race/ https://intuisyz.com/blog/digital-marketing-how-you-can-still-win-the-race.php
+Redirect 301 /it_consulting.php https://intuisyz.com/it-consulting.php
+Redirect 301 /why-branding-is-misunderstood.php https://intuisyz.com/blog/why-branding-is-misunderstood.php
+Redirect 301 /10-mistakes-to-avoid-while-outsourcing-software-development-projects.php https://intuisyz.com/blog/the-10-mistakes-to-avoid-while-outsourcing-software-development-projects.php
+Redirect 301 /blog-post/10-mistakes-to-avoid-while-outsourcing-software-development-projects.php https://intuisyz.com/blog/the-10-mistakes-to-avoid-while-outsourcing-software-development-projects.php
+Redirect 301 /blog-post/choosing-the-right-technology-stack-for-your-business.php https://intuisyz.com/blog/choosing-the-right-technology-stack-for-your-business.php
+Redirect 301 /blog-post/digital-transformation.php https://intuisyz.com/blog/digital-transformations.php
+Redirect 301 /blog/10-advantages-e-brochure-design/ https://intuisyz.com/blog/10-advantages-e-brochure-design.php
+Redirect 301 /blog/list-top-it-companies-india/ https://intuisyz.com/blog/list-top-it-companies-india.php
+Redirect 301 /blog/top-digital-marketing-companies-india/ https://intuisyz.com/blog/top-digital-marketing-companies-india.php
+Redirect 301 /casestudy/digital-marketing.php https://intuisyz.com/digital-marketing.php
+Redirect 301 /choosing-the-right-technology-stack-for-your-business.php https://intuisyz.com/blog/choosing-the-right-technology-stack-for-your-business.php
+Redirect 301 /digital-marketing/web-design/web-affordable.php https://intuisyz.com/blog/web-development-company-in-kochi.php
+Redirect 301 /digital-transformation.php https://intuisyz.com/digital-transformations.php
+Redirect 301 /digital/internet-market.php https://intuisyz.com/index.php
+Redirect 301 /digital/email_marketing.php https://intuisyz.com/email-marketing.php
+Redirect 301 /digital/content-marketing.php https://intuisyz.com/content-marketing.php
+Redirect 301 /customer-stories.php https://intuisyz.com/customer-story.php
+Redirect 301 /about-us/team.php https://intuisyz.com/team.php
+Redirect 301 /casestudy/web-design.php https://intuisyz.com/web-design.php
+Redirect 301 /casestudy/kalyan_jewellers_casestudy.php https://intuisyz.com/kalyan-jewellers-casestudy.php
+Redirect 301 /terms-and-conditions.php https://intuisyz.com/terms-conditions.php
+Redirect 301 /digital/google-ads-management.php https://intuisyz.com/google-ads-management.php
+Redirect 301 /digital/conversion-rate-optimization.php https://intuisyz.com/coversion-rate-optimization.php
+Redirect 301 /casestudy/kalyan_developers_casestudy.php https://intuisyz.com/kalyan-developers-casestudy.php
+Redirect 301 /tech-outsource.php https://intuisyz.com/it-outsource.php
+
+Redirect 301 /casestudy/it-outsourcing-casestudy.php https://intuisyz.com/it-outsourcing-casestudy.php
+Redirect 301 /casestudy/it-consulting-casestudy.php https://intuisyz.com/it-consulting-casestudy.php
+Redirect 301 /about-us/leadership.php https://intuisyz.com/leadership.php
+Redirect 301 /privacy.php https://intuisyz.com/privacy-policy.php
+Redirect 301 /blog/top-seo-companies-india/ https://intuisyz.com/blog/top-seo-companies-india.php
+Redirect 301 /blog/top-100-social-media-marketing-agencies-india/ https://intuisyz.com/blog/top-100-social-media-marketing-agencies-india.php
+Redirect 301 /blog/digital-marketing-consulting/ https://intuisyz.com/blog/digital-marketing-consulting.php
+Redirect 301 /blog/design-particular-target-audience/ https://intuisyz.com/blog/how-to-design-for-target-audience.php
+Redirect 301 /blog/select-ur-web-design-company/ https://intuisyz.com/blog/how-to-select-web-design-compay.php
+Redirect 301 /blog/seoservices/ https://intuisyz.com/blog.php
+Redirect 301 /blog/digital-marketing-in-kochi/ https://intuisyz.com/blog/digital-marketing-courses-in-kochi.php
+Redirect 301 /blog/ecommerce-kochi/ https://intuisyz.com/blog.php
+Redirect 301 /blog/web-design-firm-kerala/ https://intuisyz.com/blog/web-development-company-in-kochi.php
+Redirect 301 /category-webdesign.php https://intuisyz.com/blog/category-webdesign.php
+Redirect 301 /category-search-engine-optimization.php https://intuisyz.com/blog/category-search-engine-optimization.php
+Redirect 301 /blog/web-development-company-in-kochi/ https://intuisyz.com/blog/web-development-company-in-kochi.php
+Redirect 301 /category-uncategorized.php https://intuisyz.com/blog/category-uncategorized.php
+Redirect 301 /category-e-brochure.php https://intuisyz.com/blog/category-e-brochure.php
+Redirect 301 /category-socialmedia-marketing.php https://intuisyz.com/blog/category-socialmedia-marketing.php
+Redirect 301 /category-ecommerce.php https://intuisyz.com/blog/category-ecommerce.php
+Redirect 301 /category-digital-marketing.php https://intuisyz.com/blog/category-digital-marketing.php
+Redirect 301 /blog/responsive-web-design-company-kochi/ https://intuisyz.com/blog/responsive_web_design_kochi.php
+Redirect 301 /blog/top-web-design-companies-world/ https://intuisyz.com/blog/top-web-design-companies-world.php
+Redirect 301 /blog/redesign-web-site/ https://intuisyz.com/blog/when-do-redesign-website.php
+Redirect 301 /digital-marketing-consultingg.php https://intuisyz.com/digital-marketing-consulting.php
+Redirect 301 /5webdesign_tips_blog.php https://intuisyz.com/blog/web-design-tips-for-internet-marketers-how-to-sell-more-with-less-traffic.php
+Redirect 301 /web-development-company-in-kochi https://intuisyz.com/blog/top-web-design-companies-world.php
+Redirect 301 /from-traffic-money.php https://intuisyz.com/blog/from-traffic-money.php
+Redirect 301 /blog/digital_m_blog.php https://intuisyz.com/blog/category-digital-marketing.php
+Redirect 301 /blog/free_webinar.php https://intuisyz.com/webinar.php
+Redirect 301 /blog/index.php https://intuisyz.com/blog.php
+Redirect 301 /blog/web-design-digital-marketing-separating-myths-reality/ https://intuisyz.com/blog/web-design-digital-marketing-separating-myths-reality.php
+Redirect 301 /blog/digital-marketing-consultin.php https://intuisyz.com/blog/digital-marketing-consulting.php
+Redirect 301 /blog/it_consulting.php https://intuisyz.com/blog.php
+Redirect 301 /blog/digital-marketing-companies-wrong/ https://intuisyz.com/blog/digital-marketing-companies-are-doing-wrong.php
+Redirect 301 /win_race_blog.php https://intuisyz.com/blog/digital-marketing-how-you-can-still-win-the-race.php
+Redirect 301 /fear_sells_blog.php https://intuisyz.com/blog/fear-sells-better-than-sex-use-of-emotions-in-digital-marketing.php
+Redirect 301 /webd_dm_myth.php https://intuisyz.com/blog/web-design-digital-marketing-separating-myths-reality.php
+Redirect 301 /dm_cmpy_india_blog.php https://intuisyz.com/blog/top-digital-marketing-companies-india.php
+Redirect 301 /whendo_redesign_web_blog.php https://intuisyz.com/blog/when-do-redesign-website.php
+Redirect 301 /blog10_read.php https://intuisyz.com/blog/brand-agencies-in-kerala.php
+Redirect 301 /blog/user-experience-digital-marketing-web-design-art-meets-technology-psychology/ https://intuisyz.com/blog/user-experience-digital-marketing-web-design-art-meets-technology-psychology.php
+Redirect 301 /software_companies_blog.php https://intuisyz.com/blog/software-companies-kochi.php
+Redirect 301 /user_experience__psy_blog.php https://intuisyz.com/blog/user-experience-digital-marketing-web-design-art-meets-technology-psychology.php
+Redirect 301 /blog/webdesign_blog.php https://intuisyz.com/blog/top-web-design-companies-world.php
+Redirect 301 /top10_dm_agency_blog.php https://intuisyz.com/blog/top-10-digital-marketing-agencies-bangalore.php
+Redirect 301 /webdesigning_kochi_blog.php https://intuisyz.com/blog/web-development-company-in-kochi.php
+Redirect 301 /list_it_cmpy_blog.php https://intuisyz.com/blog/list-top-it-companies-india.php
+Redirect 301 /blog/future-of-digital-marketing/ https://intuisyz.com/blog/future-of-digital-marketing.php
+Redirect 301 /future%20of%20digitalm_blog.php https://intuisyz.com/blog/future-of-digital-marketing.php
+
+Redirect 301 /blog/5webdesign_tips_blog.php https://intuisyz.com/blog/web-design-tips-for-internet-marketers-how-to-sell-more-with-less-traffic.php
+Redirect 301 /blog/fear-sells-better-sex-use-emotions-digital-marketing/ https://intuisyz.com/blog/fear-sells-better-than-sex-use-of-emotions-in-digital-marketing.php
+Redirect 301 /top_dm_consultants_blog.php https://intuisyz.com/blog/top-digital-marketing-consultants-india.php
+Redirect 301 /blog/blog10_read.php https://intuisyz.com/blog/brand-agencies-in-kerala.php
+Redirect 301 /blog/top-13-benefits-using-digital-marketing/ https://intuisyz.com/blog/top-13-benefits-using-digital-marketing.php
+Redirect 301 /seo_cmpy_blog.php https://intuisyz.com/blog/top-seo-companies-india.php
+Redirect 301 /blog/digital-marketing-courses-in-kochi/ https://intuisyz.com/blog/digital-marketing-courses-in-kochi.php
+Redirect 301 /blog/web-design-tips-for-internet-marketers-how-to-sell-more-with-less-traffic/ https://intuisyz.com/blog/web-design-tips-for-internet-marketers-how-to-sell-more-with-less-traffic.php
+Redirect 301 /digital_m_companies_wrng.php https://intuisyz.com/blog/digital-marketing-companies-are-doing-wrong.php
+Redirect 301 /to_100_sm_blog.php https://intuisyz.com/blog/top-100-social-media-marketing-agencies-india.php
+Redirect 301 /blog/top-20-mba-schools-digital-marketing-india/ https://intuisyz.com/blog/top-20-mba-schools-digital-marketing-india.php
+Redirect 301 /webdesign_blog2.html https://intuisyz.com/blog/category-webdesign.php
+Redirect 301 /blog/top-digital-marketing-consultants-india/ https://intuisyz.com/blog/top-digital-marketing-consultants-india.php
+Redirect 301 /blog12_read.php https://intuisyz.com/blog.php
+Redirect 301 /blog/author/admin/ https://intuisyz.com/index.php
+
+Redirect 301 /top13_benefits_blog.php https://intuisyz.com/blog/top-13-benefits-using-digital-marketing.php
+Redirect 301 /10adv_ebro_blog.php https://intuisyz.com/blog/10-advantages-e-brochure-design.php
+Redirect 301 /blog/top-10-digital-marketing-agencies-bangalore/ https://intuisyz.com/blog/top-10-digital-marketing-agencies-bangalore.php
+Redirect 301 /blog/webd_dm_myth.php https://intuisyz.com/blog/web-design-digital-marketing-separating-myths-reality.php
+Redirect 301 /blog/fear_sells_blog.php https://intuisyz.com/blog/fear-sells-better-than-sex-use-of-emotions-in-digital-marketing.php
+Redirect 301 /customer-stories-page2.php https://intuisyz.com/customer-story.php
+Redirect 301 /to20_mba_blog.php https://intuisyz.com/blog/top-20-mba-schools-digital-marketing-india.php
+Redirect 301 /blog/admin.php https://intuisyz.com/index.php
+Redirect 301 /blog/user_experience__psy_blog.php https://intuisyz.com/blog/user-experience-digital-marketing-web-design-art-meets-technology-psychology.php
+Redirect 301 /blog/10adv_ebro_blog.php https://intuisyz.com/blog/10-advantages-e-brochure-design.php
+Redirect 301 /how_to_design_target.php https://intuisyz.com/blog/how-to-design-for-target-audience.php
+Redirect 301 /blog/whendo_redesign_web_blog.php https://intuisyz.com/blog/when-do-redesign-website.php
+Redirect 301 /best_digitalm_course_blog.php https://intuisyz.com/blog/digital-marketing-courses-in-kochi.php
+Redirect 301 /blog/top10_dm_agency_blog.php https://intuisyz.com/blog/top-10-digital-marketing-agencies-bangalore.php
+Redirect 301 /blog/to20_mba_blog.php https://intuisyz.com/blog/top-20-mba-schools-digital-marketing-india.php
+Redirect 301 /blog/webdesign_blog2.html https://intuisyz.com/blog/category-webdesign.php
+Redirect 301 /blog/how_to_design_target.php https://intuisyz.com/blog/how-to-design-for-target-audience.php
+Redirect 301 /webdesign_blog.html https://intuisyz.com/blog/category-webdesign.php
+Redirect 301 /blog/digital_m_companies_wrng.php https://intuisyz.com/blog/digital-marketing-companies-are-doing-wrong.php
+Redirect 301 /blog/seo_cmpy_blog.php https://intuisyz.com/blog/top-seo-companies-india.php
+Redirect 301 /blog/blog12_read.php https://intuisyz.com/blog.php
+Redirect 301 /blog/top13_benefits_blog.php https://intuisyz.com/blog/top-13-benefits-using-digital-marketing.php
+Redirect 301 /blog/httpintuisyz-comblog20150617the-10-most-deadly-mistakes-in-website-design/ https://intuisyz.com/blog/the-10-most-deadly-mistakes-in-website-design.php
+Redirect 301 /sm100_bg.php https://intuisyz.com/blog/top-100-social-media-marketing-agencies-india.php
+Redirect 301 /blog/dm_cmpy_india_blog.php https://intuisyz.com/blog/top-digital-marketing-companies-india.php
+Redirect 301 /blog/webdesigning_kochi_blog.php https://intuisyz.com/blog/web-development-company-in-kochi.php
+Redirect 301 /blog11_read.php https://intuisyz.com/blog.php
+Redirect 301 /googlead.html https://intuisyz.com/google-ads-management.php
+Redirect 301 /customer_story.html https://intuisyz.com/customer-story.php
+Redirect 301 /blog/admin4.php https://intuisyz.com/blog.php
+Redirect 301 /blog/digital-marketing-strategies-taileored-to-different-brand.php https://intuisyz.com/blog/digital-marketing-strategies-tailored-to-different-brand.php
+Redirect 301 /when-do-redesign-website.php https://intuisyz.com/blog/when-do-redesign-website.php
+Redirect 301 /blog/software_companies_blog.php https://intuisyz.com/blog/software-companies-kochi.php
+Redirect 301 /admin.html https://intuisyz.com/index.php
+Redirect 301 /blog/top_dm_consultants_blog.php https://intuisyz.com/blog/top-digital-marketing-consultants-india.php
+Redirect 301 /blog/uncategorized_blog.php https://intuisyz.com/blog/category-uncategorized.php
+Redirect 301 /socialmedia_ad.html https://intuisyz.com/social-media-advertising.php
+Redirect 301 /blog/top-digital-marketing-companies-india.phpp https://intuisyz.com/blog/top-digital-marketing-companies-india.php
+Redirect 301 /10-advantages-e-brochure-design.php https://intuisyz.com/blog/10-advantages-e-brochure-design.php
+Redirect 301 /blog/to_100_sm_blog.php https://intuisyz.com/blog/top-100-social-media-marketing-agencies-india.php
+Redirect 301 /blog/admin.html https://intuisyz.com/blog.php
+Redirect 301 /blog/e_brochure.php https://intuisyz.com/blog/category-e-brochure.php
+Redirect 301 /socialmedia_optimization.html https://intuisyz.com/social-media-optimization.php
+Redirect 301 /blog/seo_blog.php https://intuisyz.com/blog.php
+Redirect 301 /blog/win_race_blog.php https://intuisyz.com/blog/digital-marketing-how-you-can-still-win-the-race.php
+Redirect 301 /clients_digitalmarketing.html https://intuisyz.com/digital-marketing.php
+Redirect 301 /blog/blog11_read.php https://intuisyz.com/blog.php
+Redirect 301 /blog/list_it_cmpy_blog.php https://intuisyz.com/blog/list-top-it-companies-india.php
+Redirect 301 /seo.html https://intuisyz.com/search-engine-optimization.php
+Redirect 301 /blog/best_digitalm_course_blog.php https://intuisyz.com/blog/digital-marketing-courses-in-kochi.php
+Redirect 301 /blog/socialmedia_blog.php https://intuisyz.com/blog/category-socialmedia-marketing.php
+Redirect 301 /blog5_read.php https://intuisyz.com/blog.php
+Redirect 301 /blog3_read.php https://intuisyz.com/blog.php
+Redirect 301 /client_it_consulting.html https://intuisyz.com/it-consulting-casestudy.php
+Redirect 301 /blog/ecommerce.php https://intuisyz.com/blog/how_toselect_encommerce_blog.php
+Redirect 301 /blog/admin3.php https://intuisyz.com/blog.php
+Redirect 301 /blog/tag/best-web-designing-company-cochin/ https://intuisyz.com/blog/web-development-company-in-kochi.php
+Redirect 301 /software_companies_blog.html https://intuisyz.com/blog/software-companies-kochi.php
+Redirect 301 /blog/p https://intuisyz.com/blog.php
+Redirect 301 /social_media_optimization_blog.php https://intuisyz.com/blog/socialmedia-optimization-website.php
+Redirect 301 /clients_sem.html https://intuisyz.com/kalyan-developers-casestudy.php
+Redirect 301 /search_engine_main.html https://intuisyz.com/search-engine-optimization.php
+Redirect 301 /blog/webdesign_blog.html https://intuisyz.com/blog/category-webdesign.php
+Redirect 301 /content_m.html https://intuisyz.com/content-marketing.php
+Redirect 301 /email_marketing.html https://intuisyz.com/email-marketing.php
+Redirect 301 /blog/category/web-design/page/2/ https://intuisyz.com/blog/category-webdesign.php
+Redirect 301 /blog/admin2.php https://intuisyz.com/index.php
+Redirect 301 /blog/contact-us.php https://intuisyz.com/contact-us.php
+Redirect 301 /digital/internet-marketing/advertisement-design.php https://intuisyz.com/blog/internet-advertisement.php
+Redirect 301 /source/web-design-affordable.php https://intuisyz.com/blog.php
+Redirect 301 /blog/it_companies.php https://intuisyz.com/blog/list-top-it-companies-india.php
+Redirect 301 /blog/category/digital-marketing/page/2/ https://intuisyz.com/blog/category-digital-marketing.php
+Redirect 301 /digital_m.html https://intuisyz.com/digital.php
+Redirect 301 /coversion_rate.html https://intuisyz.com/coversion-rate-optimization.php
+Redirect 301 /branding.html https://intuisyz.com/digital-branding.php
+Redirect 301 /branding.html https://intuisyz.com/digital-branding.php
+Redirect 301 /email_marketing.php https://intuisyz.com/email-marketing.php
+Redirect 301 /socialmedia_optimization.php https://intuisyz.com/social-media-optimization.php
+Redirect 301 /portfolio_webdesign.php https://intuisyz.com/portfolio-webdesign.php
+Redirect 301 /portfolio_video_animation.php https://intuisyz.com/portfolio-video-animation.php
+Redirect 301 /software_development.php https://intuisyz.com/software-development.php
+Redirect 301 /webapplication.php https://intuisyz.com/web-application.php
+Redirect 301 /about_us.php https://intuisyz.com/about-us.php
+Redirect 301 /customer_story.php https://intuisyz.com/customer-story.php
+Redirect 301 /customer_story2.php https://intuisyz.com/customer-story2.php
+Redirect 301 /customer_story3.php https://intuisyz.com/customer-story3.php
+Redirect 301 /customer_story4.php https://intuisyz.com/customer-story4.php
+Redirect 301 /customer_story5.php https://intuisyz.com/customer-story5.php
+Redirect 301 /customer_story6.php https://intuisyz.com/customer-story6.php
+Redirect 301 /kalyan_jewellers_casestudy.php https://intuisyz.com/kalyan-jewellers-casestudy.php
+Redirect 301 /kalyan_developers_casestudy.php https://intuisyz.com/kalyan-developers-casestudy.php
+Redirect 301 /it_outsource.php https://intuisyz.com/it-outsource.php
+Redirect 301 /digital_transformation.php https://intuisyz.com/digital-transformations.php
+Redirect 301 /terms_conditions.php https://intuisyz.com/terms-conditions.php
+Redirect 301 /privacy_policy.php https://intuisyz.com/privacy-policy.php
+Redirect 301 /blog/digital-marketing-how-you-can-still-win-the-race.php https://intuisyz.com/blog/digital-marketing-win-race.php
+Redirect 301 /blog/digital-marketing-strategies-tailored-to-different-brand.php https://intuisyz.com/blog/digital-marketing-strategies.php
+Redirect 301 /blog/from-traffic-money.php https://intuisyz.com/blog/traffic-to-conversion-rate-optimization.php
+Redirect 301 /blog/roi-leveraging-social-media-skillfully-to-create-a-profitable-future.php https://intuisyz.com/blog/roi-from-social-media.php
+Redirect 301 /blog/be_an_expert_in_google_analytics_4_in_5_days.php https://intuisyz.com/blog/expert-in-google-analytics.php
+Redirect 301 /blog/how-intuisyz-seo-strategies-helped-kalyan-jewellers.php https://intuisyz.com/blog/seo-strategies-for-kalyan-jewellers.php
+Redirect 301 /blog/using-google-adds-how-can-you-achieve-business-goals.php https://intuisyz.com/blog/google-ads-to-achieve-business-goals.php
+Redirect 301 /blog/things-to-learn-about-performance-marketing.php https://intuisyz.com/blog/learn-about-performance-marketing.php
+Redirect 301 /blog/the-10-mistakes-businesses-do-with-seo.php https://intuisyz.com/blog/l0-mistakes-do-with-seo.php
+Redirect 301 /blog/10-mistakes-to-avoid-while-outsourcing-software-development-projects.php https://intuisyz.com/blog/10-mistakes-in-software-development.php
+Redirect 301 /blog/choosing-the-right-technology-stack-for-your-business.php https://intuisyz.com/blog/right-technology-for-your-business.php
+Redirect 301 /blog/how-to-select-web-design-compay.php https://intuisyz.com/blog/how-to-select-web-design-company.php
+Redirect 301 /blog/web-development-company-in-kochi.php https://intuisyz.com/blog/web-design-company-in-kochi.php
+Redirect 301 /blog/web-design-tips-for-internet-marketers-how-to-sell-more-with-less-traffic.php https://intuisyz.com/blog/web-design-tips.php
+Redirect 301 /blog/the-10-most-deadly-mistakes-in-website-design.php https://intuisyz.com/blog/mistakes-in-website-design.php
+Redirect 301 /blog/comprehensive-guide-to-boosting-your-website-expertise-authority-trustworthiness.php https://intuisyz.com/blog/guide-to-boosting-your-websites-seo-ranking.php
+Redirect 302 "/future of digitalm_blog.php" https://intuisyz.com/blog/future-of-digital-marketing.php
+Redirect 302 "/blog/how_to select_designcmpy.php" https://intuisyz.com/blog/how-to-select-web-design-compay.php
+Redirect 302 "/blog/future of digitalm_blog.php" https://intuisyz.com/blog/future-of-digital-marketing.php
+
+
+Redirect 302 "/index.phppage/3/" https://intuisyz.com/index.php
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} on
+  RewriteCond %{REQUEST_URI} ^/how_to\ select_designcmpy\.php$ [NC]
+  RewriteRule ^(.*)$ https://intuisyz.com/blog/how-to-select-web-design-compay.php [L,R=302]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{REQUEST_URI} ^/index\.php$ [NC]
+  RewriteRule ^ https://intuisyz.com/ [R=301,L]
+</IfModule>
+ErrorDocument 404 /404.php
+
+
