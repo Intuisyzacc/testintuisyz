@@ -88,9 +88,9 @@ require __DIR__ . '/PHPMailer/src/SMTP.php';
 
 // Your database connection details
 $host = "localhost"; // Change this to your database host
-$username = "digital_intuisyz"; // Change this to your database username
-$password = "8N&1q7Y5br=m"; // Change this to your database password
-$database = "digital_intuisyz"; // Change this to your database name
+$username = "y78guaw6tug5"; // Change this to your database username
+$password = "pQDm8k#B@1zm"; // Change this to your database password
+$database = "i9776843_xonh1"; // Change this to your database name
 
 // Create a connection
 $conn = new mysqli($host, $username, $password, $database);
