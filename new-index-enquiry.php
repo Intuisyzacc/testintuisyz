@@ -56,7 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $mail->send();
 
             // Database connection
-            $conn = new mysqli("localhost", "digital_intuisyz", "8N&1q7Y5br=m", "digital_intuisyz");
+            $conn = new mysqli("localhost", "y78guaw6tug5", "pQDm8k#B@1zm", "i9776843_xonh1");
 
             // Check connection
             if ($conn->connect_error) {
