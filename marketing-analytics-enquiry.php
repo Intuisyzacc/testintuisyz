@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $message = htmlspecialchars($_POST['message']);
   $service = htmlspecialchars($_POST['service']);
         $mailUsername = 'jissaoommen0219@gmail.com';
-        $mailPassword = 'qbgm qqns uxmf gtnx'; // Replace with your App Password
+        $mailPassword = 'khrh quvj dcjz dxvy'; // Replace with your App Password
 
         // Create a PHPMailer instance
         $mail = new PHPMailer(true);
