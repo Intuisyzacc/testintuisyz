@@ -179,7 +179,9 @@
         </nav>
         <!-- End Navigation -->
     </header>
-       
+      <?php
+    include("toggle_enquiry.php")
+        ?> 
 
     <!-- End Header -->
 <script src="/hide.js"></script>
