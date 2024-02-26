@@ -38,22 +38,39 @@ include("header.php")
 ?>
 
     <!-- End Header -->
-    <img src="images/facebook-international.jpg" width="2500" height="320">
+  
+ <!-- Start Breadcrumb 
+    ============================================= -->
+        <div>
+            <div class="breadcrumb-area bg-cover shadow dark text-center text-light"
+                style="background-image: url(images/facebook-international.jpg);">
+                <div class="breadcrum-shape">
+                    <img src="assets/img/shape/50.png" alt="Image Not Found">
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-10">
 
+                            <ul class="breadcrumb">
+                                <ul class="breadcrumb">
 
+                                    <li style="color: rgb(247, 242, 242);font-size: 32px;">
+                                        Social Media Advertising<br>
+                                        <BR>
+                                        <H3>
+                                           Get your preferred visitors</H3>
 
-    <div class="row">
-        <div class="col-lg-8 offset-lg-2">
-            <div class="site-heading text-center centered">
-                <h1 style="color: azure;"><b> Social Media Advertising</b></h1>
-                <h3 style="color: white;">
+                                    </li>
+                                </ul><br>
+                             
 
-                    Get your preferred visitors</h3>
-
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-
+        <!-- End Breadcrumb -->
 
     <!-- Start Aobut 
     ============================================= -->
