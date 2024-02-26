@@ -256,7 +256,9 @@ include("toggle_enquiry.php")
         <!-- End Navigation -->
     </header>
     <!-- End Header -->
-
+<?php
+    include("toggle_enquiry.php")
+        ?>
     <!-- Start Banner Area 
     ============================================= -->
     <div class="banner-area banner-style-one shadow navigation-custom-large zoom-effect overflow-hidden text-light">
