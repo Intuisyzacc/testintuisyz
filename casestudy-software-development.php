@@ -6,10 +6,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
+  
 
     <!-- ========== Page Title ========== -->
-   <title>Software development Case study | Mobile App and Web App development</title>
+    <title>Software development Case study | Intuisyz Technology</title>
+    <meta name="description" content="Intuisyz Technology's software development case study highlights their proficiency in delivering tailored and innovative solutions, showcasing their expertise in creating high-performance software products that meet diverse client needs.">
+    <meta name="keywords" content="Affordable Websites,Web Designing Company Cochin, Website Development Company Kochi, Designer Websites, Kerala, Web Application Development Company Cochin, Accounting System, Point of Sale ,HR & Pay Roll, CRM Software for Builders, Web Designers Cochin, E Commerce, Web Designers Kerala,  Travel Agency Apps ,School Portal, College Portal, Web Designing Cochin, Online News Portal, E learning Application,  Social Media Marketing Cochin, Budgeting Software, E-mail Marketing Tool ,Bulk Email Marketing, ERP, Performance Management,Project Management,Anti Piracy Software, Bulk Email Software">
+    <meta property="og:title" content="Software development Case study | Intuisyz Technology">
+  <meta property="og:description" content="Intuisyz Technology's software development case study highlights their proficiency in delivering tailored and innovative solutions, showcasing their expertise in creating high-performance software products that meet diverse client needs.">
+  <meta property="twitter:title" content="Software development Case study | Intuisyz Technology">
+  <meta property="twitter:description" content="Intuisyz Technology's software development case study highlights their proficiency in delivering tailored and innovative solutions, showcasing their expertise in creating high-performance software products that meet diverse client needs.">
+   
     <!-- ========== Favicon Icon ========== -->
   <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
