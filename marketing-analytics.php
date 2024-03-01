@@ -10,13 +10,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-   
+     <meta name="description" content="Intuisyz Technologies stands out as one of the best  marketing analytics service company in India, leveraging cutting-edge technology and innovative solutions.Book Soon.">
+
 
     <!-- ========== Page Title ========== -->
-   <title>Marketing analytics Intuisyz | Social Media Marketing</title>
-
-  
- 
+   <title>Marketing Analytics Service | Intuisyz technologies</title>
     <!-- ========== Favicon Icon ========== -->
         <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
