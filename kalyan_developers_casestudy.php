@@ -6,11 +6,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-
-    <!-- ========== Page Title ========== -->
-   <title>Kalyan Developers Real estate Business Case study | Search Engine Marketing</title>
-
+   <title>Kalyan Developers Casestudy |Intuisyz Technologies</title>
+ <meta name="description" content="Intuisyz SEM digital marketing tactics improved web traffic and conversion rate optimization of Kalyan Developers real estate business. CRO increased sales of Kalyan.">
+    <meta name="keywords" content="online marketing services kochi, internet marketing agency, internet marketing business, marketing by social media, facebook social marketing">
+	<meta property="og:title" content="Kalyan Developers Casestudy |Intuisyz Technologies">
+    <meta property="og:description" content="Intuisyz SEM digital marketing tactics improved web traffic and conversion rate optimization of Kalyan Developers real estate business. CRO increased sales of Kalyan.">
+    <meta property="twitter:title" content="Kalyan Developers Casestudy |Intuisyz Technologies">
+   <meta property="twitter:description" content="Intuisyz SEM digital marketing tactics improved web traffic and conversion rate optimization of Kalyan Developers real estate business. CRO increased sales of Kalyan.">
+  
     <!-- ========== Favicon Icon ========== -->
      <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
