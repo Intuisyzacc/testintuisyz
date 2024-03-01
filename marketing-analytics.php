@@ -170,7 +170,7 @@
         </div>
     </div>
     <!-- End Testimonails  -->
-      <img src="images/marketing-analytics-diagram.jpg">
+      <img src="images/marketing-analytics-diagram.jpg" alt="marketing-analytics-diagram">
   <!-- Start Services 
     ============================================= -->
     <div class="services-style-three-area default-padding-top half-bg-dark" style="background-image: url(assets/img/shape/52.png);">
@@ -431,7 +431,7 @@
 
                 <div class="col-lg-5 offset-lg-1">
                     <div class="estimate-thumb">
-                        <img src="images/marketing-analytics-contact.jpg" alt="Image Not Found">
+                        <img src="images/marketing-analytics-contact.jpg" alt="marketing-analytics-contact">
                         <div class="shape">
                             <img src="assets/img/shape/53.png" alt="Shape">
                         </div>
