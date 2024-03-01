@@ -47,7 +47,7 @@
 include("header.php")
 ?>
 
-    <img src="images/about us-banner.jpg">
+    <img src="images/about us-banner.webp" alt="about-us">
  
     <!-- Star Project Details Area
     ============================================= -->
