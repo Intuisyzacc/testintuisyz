@@ -6,12 +6,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-
-    <!-- ========== Page Title ========== -->
-   
-       <title>IT Consulting CaseStudy | ERP | Sales Management | Advertisement Video</title>
-
+     <title>IT Consulting Casestudy | Intuisyz Technologies</title>
+<meta name="description" content="Digital marketing services for Grandmaster Global gave a digital transformation for them.IT consultation services like ERP, Sales management, advertisement video from Intuisyz.">
+    <meta name="keywords" content="responsive web design, responsive website design company, web developers, software developers, web design price">
+    <meta property="og:title" content="IT Consulting Casestudy | Intuisyz Technologies">
+    <meta property="og:description" content="Digital marketing services for Grandmaster Global gave a digital transformation for them.IT consultation services like ERP, Sales management, advertisement video from Intuisyz.">
+    <meta property="twitter:title" content="IT Consulting Casestudy | Intuisyz Technologies">
+   <meta property="twitter:description" content="Digital marketing services for Grandmaster Global gave a digital transformation for them.IT consultation services like ERP, Sales management, advertisement video from Intuisyz.">
+    <meta http-equiv="Content-Language" content="en-us" />
+    
     <!-- ========== Favicon Icon ========== -->
      <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
