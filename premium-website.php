@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
+   <meta name="description" content="Intuisyz Technology designs premium websites for clients in various niches. Book soon to get the premium website design.">
 
     <!-- ========== Page Title ========== -->
-    <title>pemium -website.php</title>
+    <title>Premium Website Design | Intuisyz Technology</title>
 
     <!-- ========== Favicon Icon ========== -->
       <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
