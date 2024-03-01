@@ -7,11 +7,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Consua - Consulting Business Template">
+ <meta name="description" content=" Intuisyz Technology is one of the best web App development company in kerala.We excel in creating customized website.Book Soon .">
 
     <!-- ========== Page Title ========== -->
- <title>Web Application development & website maintenance | Web app developers</title>
+ <title>Web App development Company in Kerala |Intuisyz Technology</title>
 
-    <!-- ========== Favicon Icon ========== -->
      <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
     <!-- ========== Start Stylesheet ========== -->
@@ -328,11 +328,11 @@ include("header.php")
         </div>
         <div class="bts-m">
             <div class="grid-content">
-               <img src="images/kalyan-logo.png" style="width: 10%;">
-                <img src="images/kalyanold.png" style="width: 10%;">
-                <img src="images/keerthy_logo.png" style="width: 10%;">
-                <img src="images/techno.png" style="width: 10%;">
-                <img src="images/kalyann.png" style="width: 10%;">
+               <img src="images/kalyan-logo.png" alt="kalyan-logo" style="width: 10%;">
+                <img src="images/kalyanold.png" alt="kalyan-developers" style="width: 10%;">
+                <img src="images/keerthy_logo.png" alt="keerthy_logo" style="width: 10%;">
+                <img src="images/techno.png" alt="technopark" style="width: 10%;">
+                <img src="images/kalyann.png" alt="kalyan" style="width: 10%;">
             </div>
         </div><br>
 
