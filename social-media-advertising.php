@@ -9,7 +9,12 @@
     <meta name="description" content="Consua - Consulting Business Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- ========== Page Title ========== -->
-     <title>Social media advertising in Facebook, Instagram, Linkedin, YouTube, Twitter</title>
+     <title>Social Media Marketing Company in India | Intuisyz Technologies</title>
+      <meta name="description" content="Intuisyz Technology stands out as one of the best social media marketing companies in India. Book soon to get the best social media advertisement.">
+  <meta property="og:title" content="Social Media Marketing Company in India | Intuisyz Technologies" />
+  <meta property="og:description" content="Intuisyz Technology stands out as one of the best social media marketing companies in India. Book soon to get the best social media advertisement." />
+   <meta property="twitter:title" content="Social Media Marketing Company in India | Intuisyz Technologies" />
+  <meta property="twitter:description" content="Intuisyz Technology stands out as one of the best social media marketing companies in India. Book soon to get the best social media advertisement." />
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
     <!-- ========== Start Stylesheet ========== -->
