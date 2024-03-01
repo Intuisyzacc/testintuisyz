@@ -6,11 +6,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-
-    <!-- ========== Page Title ========== -->
-     <title>INTUISYZ TECHNOLOGIES | DIGITAL MARKETING</title>
-    <!-- ========== Favicon Icon ========== -->
+     <title>Digital Marketing Casestudy | Intuisyz Technology</title>
+       <meta name="description" content="The case study on Asset Homes, Kalyan Jewellers, and Kalyan Developers collaborating with celebrity influencer Nazriya Nazim demonstrated a successful synergy, boosting brand visibility, engagement, and customer acquisition in a competitive market.">
+    <meta name="keywords" content="online marketing services kochi, internet marketing agency, internet marketing business, marketing by social media, facebook social marketing">
+    <meta property="og:title" content="Digital Marketing Casestudy | Intuisyz Technology">
+    <meta property="og:description" content="The case study on Asset Homes, Kalyan Jewellers, and Kalyan Developers collaborating with celebrity influencer Nazriya Nazim demonstrated a successful synergy, boosting brand visibility, engagement, and customer acquisition in a competitive market.">
+    <meta property="twitter:title" content="Digital Marketing Casestudy | Intuisyz Technology">
+   <meta property="twitter:description" content="The case study on Asset Homes, Kalyan Jewellers, and Kalyan Developers collaborating with celebrity influencer Nazriya Nazim demonstrated a successful synergy, boosting brand visibility, engagement, and customer acquisition in a competitive market.">
+    <meta http-equiv="Content-Language" content="en-us" />
+     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
     <!-- ========== Start Stylesheet ========== -->
