@@ -6,10 +6,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-
-    <!-- ========== Page Title ========== -->
-    <title>Kalyan Jewellers Business Case Study | SMMA | Best Digital Marketing Agency</title>
+   <title>Kalyan Jewellers Casestudy |Intuisyz Technologies</title>
+<meta name="description" content="How Kalyan Jewellers increased web traffic? Read business case study of Kalyan Jewellers. Our SEO strategies increased organic traffic,organic Keywords, organic traffic value.">
+    <meta name="keywords" content="online marketing services kochi, internet marketing agency, internet marketing business, marketing by social media, facebook social marketing">
+    <meta property="og:title" content="Kalyan Jewellers Casestudy |Intuisyz Technologies">
+    <meta property="og:description" content="How Kalyan Jewellers increased web traffic? Read business case study of Kalyan Jewellers. Our SEO strategies increased organic traffic,organic Keywords, organic traffic value.">
+    <meta property="twitter:title" content="Kalyan Jewellers Casestudy |Intuisyz Technologies">
+   <meta property="twitter:description" content="How Kalyan Jewellers increased web traffic? Read business case study of Kalyan Jewellers. Our SEO strategies increased organic traffic,organic Keywords, organic traffic value.">
+ 
 
     <!-- ========== Favicon Icon ========== -->
       <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
