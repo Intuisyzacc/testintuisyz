@@ -117,7 +117,7 @@ include("header.php")
                         <div class="col-xl-4 col-md-6 mb-30">
                             <div class="services-style-two active">
                                 <div class="thumb">
-                                    <img src="images/react-js-img.jpg" alt="Thumb">
+                                    <img src="images/react-js-img.jpg" alt="react-js">
 
                                 </div>
                                 <div class="info">
@@ -145,7 +145,7 @@ include("header.php")
                         <div class="col-xl-4 col-md-6 mb-30">
                             <div class="services-style-two">
                                 <div class="thumb">
-                                    <img src="images/java-logo.png" alt="Thumb">
+                                    <img src="images/java-logo.png" alt="java-logo">
 
                                 </div>
                                 <div class="info">
@@ -172,7 +172,7 @@ include("header.php")
                         <div class="col-xl-4 col-md-6 mb-30">
                             <div class="services-style-two">
                                 <div class="thumb">
-                                    <img src="images/php-logo.png" alt="Thumb">
+                                    <img src="images/php-logo.png" alt="php-logo">
 
                                 </div>
                                 <div class="info">
