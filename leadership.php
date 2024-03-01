@@ -6,11 +6,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
+  
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- ========== Page Title ========== -->
-   <title>Digital Marketer & Marketing Consultant of Intuisyz | Social Media Marketing</title>
+  <title>Leadership for Digital Marketing| Intuisyz Technolgies</title>
+ <meta name="description" content="Sijin Stephen, the Founder and Director of Intuisyz Information Technology and Social Media Consulting, is a visionary leader with acute business acumen and a strategic approach to digital marketing.">
+    <meta name="keywords" content="responsive web design, responsive website design company, web developers, software developers, web design price">
+    <meta property="og:title" content="Leadership for Digital Marketing| Intuisyz Technolgies">
+    <meta property="og:description" content="Sijin Stephen, the Founder and Director of Intuisyz Information Technology and Social Media Consulting, is a visionary leader with acute business acumen and a strategic approach to digital marketing.">
+    <meta property="twitter:title" content="Leadership for Digital Marketing| Intuisyz Technolgies">
+    <meta property="twitter:description" content="Sijin Stephen, the Founder and Director of Intuisyz Information Technology and Social Media Consulting, is a visionary leader with acute business acumen and a strategic approach to digital marketing.">
+   
 
     <!-- ========== Favicon Icon ========== -->
         <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
