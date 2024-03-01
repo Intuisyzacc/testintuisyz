@@ -11,16 +11,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   
     <!-- ========== Page Title ========== -->
- <title>Social Media Optimization | Social Media Marketing Agency | SMO</title>
- <meta name="description" content="Social Media Marketing Company boost your brand value via social media marketing strategy. Viral Marketing in social media platforms to connect target audience. ">
-  <meta property="og:title" content="Social Media Optimization | Social Media Marketing Agency | SMO" />
-  <meta property="og:description" content="Social Media Marketing Company boost your brand value via social media marketing strategy. Viral Marketing in social media platforms to connect target audience. " />
+ <title>Social Media Optimization Service| Intuisyz Technologies</title>
+ <meta name="description" content="Intuysiz Technologies is one of the leading social media optimization company in Kerala.Book soon with Intuisyz technologies to increase your social media presence.">
+  <meta property="og:title" content="Social Media Optimization Service| Intuisyz Technologies" />
+  <meta property="og:description" content="Intuysiz Technologies is one of the leading social media optimization company in Kerala.Book soon with Intuisyz technologies to increase your social media presence." />
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Intuisyz Technologies">
   <meta property="twitter:title" content="Social Media Optimization | Social Media Marketing Agency | SMO" />
-  <meta property="twitter:description" content="Social Media Marketing Company boost your brand value via social media marketing strategy. Viral Marketing in social media platforms to connect target audience. " />
- 
+  <meta property="twitter:description" content="Intuysiz Technologies is one of the leading social media optimization company in Kerala.Book soon with Intuisyz technologies to increase your social media presence." />
+  <meta property="twitter:title" content="Social Media Optimization | Social Media Marketing Agency | SMO" />
+  <meta property="twitter:description" content="Intuysiz Technologies is one of the leading social media optimization company in Kerala.Book soon with Intuisyz technologies to increase your social media presence." />
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
