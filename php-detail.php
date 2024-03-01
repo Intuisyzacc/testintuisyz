@@ -6,10 +6,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
+   <title>PHP Development Company in Kerala| Intuisyz Technology</title>
+<meta name="description" content="Intuisyz Technologies is one of the best PHP Development Company in Kerala.Book Soon to get fast solutions from Intuisyz Technolgies."/>
+<meta name="keywords" content="php development services,php development company, php development, php development service, php development company in india,php programming"/>
+<meta property="og:title" content="PHP Development Company in Kerala| Intuisyz Technology"/>
+<meta property="og:description" content="Intuisyz Technologies is one of the best PHP Development Company in Kerala.Book Soon to get fast solutions from Intuisyz Technolgies."/>
+<meta property="twitter:title" content="PHP Development Company in Kerala| Intuisyz Technology"/>
+<meta property="twitter:description" content="Intuisyz Technologies is one of the best PHP Development Company in Kerala.Book Soon to get fast solutions from Intuisyz Technolgies."/>
 
-    <!-- ========== Page Title ========== -->
-   <title>Custom PHP web development | Hire PHP developer for php projects</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
