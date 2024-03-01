@@ -6,11 +6,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta name="description" content=" Intuisyz Technologies is one of the best SEO companies in India. If you want to enhance the organic visibility of your website, book soon with Intuisyz Technology.">
     <!-- ========== Page Title ========== -->
-   <title>Search Engine Optimization | Search Engine Marketing</title>
-    <!-- ========== Favicon Icon ========== -->
+   <title>Best SEO Company in India | Intuisyz technologies</title>
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
     <!-- ========== Start Stylesheet ========== -->
