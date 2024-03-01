@@ -6,11 +6,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
     <!-- ========== Page Title ========== -->
-    <title>What is Content Marketing | Intuisyz SEO Company to attract ideal buyers</title>
-
+    <title>Best content Marketing Company| Intuisyz Technologies</title>
+ <meta name="description" content="Intuisyz Technologies is one of the best content marketing agency in Kerala.Book soon with Intuisyz to get you a top content marketer.">
+  <meta property="og:title" content="Best content Marketing Company| Intuisyz Technologies">
+  <meta property="og:description" content="Intuisyz Technologies is one of the best content marketing agency in Kerala.Book soon with Intuisyz to get you a top content marketer.">
+  <meta property="og:url" content="https://intuisyz.com/content-marketing.php">
+ <meta property="twitter:title" content="Best content Marketing Company| Intuisyz Technologies">
+  <meta property="twitter:description" content="Intuisyz Technologies is one of the best content marketing agency in Kerala.Book soon with Intuisyz to get you a top content marketer.">
+  
     <!-- ========== Favicon Icon ========== -->
    <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
