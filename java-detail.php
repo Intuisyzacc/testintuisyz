@@ -5,9 +5,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-    <!-- ========== Page Title ========== -->
-<title>Custom Java/J2EE programming for mobile and web development</title>
+  <title>Java Development Company Kerala |Intuisyz Technology</title>
+<meta name="description" content="Intuisyz Technology is one of the best Java Development Company in Kerala,specializing in delivering scalable java solutions for customer.Book soon.">
+<meta name="keywords" content=" java development, java development services, java services,java web development, java web development company, java web development services,java software development company,j2ee, j2ee in java,java technologies, j2ee architecture, java applications">
+<meta property="og:title" content="Java Development Company Kerala |Intuisyz Technology"/>
+<meta property="og:description" content="Intuisyz Technology is one of the best Java Development Company in Kerala,specializing in delivering scalable java solutions for customer.Book soon."/>
+<meta property="twitter:title" content="Java Development Company Kerala |Intuisyz Technology"/>
+<meta property="twitter:description" content="Intuisyz Technology is one of the best Java Development Company in Kerala,specializing in delivering scalable java solutions for customer.Book soon."/>
+
     <!-- ========== Favicon Icon ========== -->
      <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
     <!-- ========== Start Stylesheet ========== -->
