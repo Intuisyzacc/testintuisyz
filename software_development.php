@@ -6,10 +6,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="twitter:title" content="Custom Software Development Company in India | Web Development">
+  <meta property="twitter:description" content="Intuisyz Technologies stands out as one of the best software development companies in Kochi, leveraging cutting-edge technology and innovative solutions.Book Soon.">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- ========== Page Title ========== -->
-   <title>Software Development| Software Development Team</title>
+   <title> Software Development Company in Kochi | Intuisyz Technologies</title><meta name="description" content="Intuisyz Technologies stands out as one of the best software development companies in Kochi, leveraging cutting-edge technology and innovative solutions.Book Soon.">
+  <meta name="keywords" content="software development company kochi, web design company kerala, web design and development, Software Development Service,mobile Apps Development Company Kochi, Kerala">
+  <meta property="og:title" content="Custom Software Development Company in India | Web Development">
+  <meta property="og:description" content="Intuisyz Technologies stands out as one of the best software development companies in Kochi, leveraging cutting-edge technology and innovative solutions.Book Soon.">
+  
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
