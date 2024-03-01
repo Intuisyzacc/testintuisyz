@@ -6,12 +6,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
+   
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- ========== Page Title ========== -->
    	<title>About Us| Intuisyz Technologies Pvt Ltd</title>
-
+<meta name="description" content="Intuisyz Technologies stands as the No.1 digital marketing agency in India. Elevate your business through Intuisyz Technologies. Book soon to grow your business fast.">
+	<meta name="keywords" content="web development, product marketing, social media campaigning, online marketing companies, cheap web design company">
+	<meta property="og:title" content="About Intuisyz | #1 Digital Marketing Agency in India">
+    <meta property="og:description" content="Intuisyz Technologies stands as the No.1 digital marketing agency in India. Elevate your business through Intuisyz Technologies. Book soon to grow your business fast.">
+	<meta property="twitter:title" content="About Intuisyz | #1 Digital Marketing Agency in India">
+    <meta property="twitter:description" content="Intuisyz Technologies stands as the No.1 digital marketing agency in India. Elevate your business through Intuisyz Technologies. Book soon to grow your business fast.">
+	<meta http-equiv="Content-Language" content="en-us" />
     <!-- ========== Favicon Icon ========== -->
       <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
