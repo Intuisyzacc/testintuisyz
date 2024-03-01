@@ -44,7 +44,7 @@ include("header.php")
 ?>
 
     <!-- End Header -->
-    <img src="images/data-analytics-banner-1.jpg" width="2500" height="320">
+    <img src="images/data-analytics-banner-1.jpg" width="2500" height="320" alt="data-analytics-banner">
 
 
 
@@ -69,8 +69,8 @@ include("header.php")
 
                 <div class="col-lg-5 about-style-two">
                     <div class="thumb">
-                        <img src="images/conversion.jpg" alt="Image Not Found">
-                        <img src="images/conversion.jpg" alt="Image Not Found">
+                        <img src="images/conversion.jpg" alt="conversion">
+                        <img src="images/conversion.jpg" alt="conversion">
 
                         <div class="shape">
                             <img src="assets/img/shape/anim-5.png" alt="Shape">
