@@ -9,10 +9,15 @@
     <meta name="description" content="Consua - Consulting Business Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- ========== Page Title ========== -->
-   <title>Email Marketing | Digital Marketing | Email campaigns</title>
-    <!-- ========== Favicon Icon ========== -->
+    <title>Best Email Marketing Company | Intuisyz Technology</title>
+    <meta name="description" content="Intuisyz Technology ranks among the best email marketing service companies in India. For getting best service book soon.">
+  <meta property="og:title" content="Best Email Marketing Company | Intuisyz Technology" />
+  <meta property="og:description" content="Intuisyz Technology ranks among the best email marketing service companies in India. For getting best service book soon." />
+  <meta property="og:url" content="https://intuisyz.com/email-marketing.php" />
      <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
-
+ <meta property="twitter:title" content="Best Email Marketing Company | Intuisyz Technology" />
+  <meta property="twitter:description" content="Intuisyz Technology ranks among the best email marketing service companies in India. For getting best service book soon." />
+ 
     <!-- ========== Start Stylesheet ========== -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
