@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
+   <meta name="description" content=" Intuisyz Technologies is one of the best IT consulting Company in Kerala. Book soon to enhance your IT consulting service.">
 
     <!-- ========== Page Title ========== -->
- <title>IT Consulting | IT services & Technology Consulting in India at Intuisyz</title>
+ <title>IT Consulting Service in Kochi,Kerala|Intuisyz Technology</title>
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
@@ -92,7 +92,7 @@ include("header.php")
                     <div class="col-lg-4">
                         <div class="process-style-one active">
 
-                            <img src="images/jo.png" alt="Thumb">
+                            <img src="images/jo.png" alt="Strategy">
 
 
                             <h4>IT Strategy</h4>
@@ -109,7 +109,7 @@ include("header.php")
                     <div class="col-lg-4">
                         <div class="process-style-one">
 
-                            <img src="images/jo1.png" alt="Thumb">
+                            <img src="images/jo1.png" alt="transformation">
 
 
                             <h4>Business Transformation</h4>
@@ -126,7 +126,7 @@ include("header.php")
                     <div class="col-lg-4">
                         <div class="process-style-one">
 
-                            <img src="images/jo2.png" alt="Thumb">
+                            <img src="images/jo2.png" alt="management">
 
                             <h4>Risk Management
 
