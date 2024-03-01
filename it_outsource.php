@@ -6,11 +6,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
+   
 
     <!-- ========== Page Title ========== -->
-   <title>IT Outsourcing Software Development Projects | News &#8211; Digital Marketing Strategy</title>
-    <!-- ========== Favicon Icon ========== -->
+  <title>IT Outsourcing Software Development Projects | News &#8211; Digital Marketing Strategy</title>
+    <meta name="description" content="Low cost project development for onshore and offshore companies. IT Outsourcing projects from the US for web and mobile application development.">
+    <meta name="keywords" content="responsive web design, responsive website design company, web developers, software developers, web design price">
+    <meta property="og:title" content="IT Outsourcing | Mobile & Web Application Development Examples">
+    <meta property="og:description" content="Low cost project development for onshore and offshore companies. IT Outsourcing projects from the US for web and mobile application development.">
+   <meta property="twitter:title" content="IT Outsourcing | Mobile & Web Application Development Examples">
+    <meta property="twitter:description" content="Low cost project development for onshore and offshore companies. IT Outsourcing projects from the US for web and mobile application development.">
+ 
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
     <!-- ========== Start Stylesheet ========== -->
