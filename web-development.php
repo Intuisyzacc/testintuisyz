@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-
-    <!-- ========== Page Title ========== -->
-  <title>Web Development | Product Marketing | Social Media Campaigning</title>
+   <title>Best Web development Company in Kerala |Intuisyz Technology</title>
+ <meta name="description" content="Intuisyz Technology is one of the best web development company in kerala.We excel in creating customized website.Book Soon .">
+    <meta name="keywords" content="Web Development, web Design Companies, web development company, software development services">
+   
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
@@ -73,8 +73,8 @@ include("header.php")
 
                 <div class="col-lg-5 about-style-two">
                     <div class="thumb">
-                        <img src="images/web-designing-have.jpg" alt="Image Not Found">
-                        <img src="images/web-designing-have.jpg" alt="Image Not Found">
+                        <img src="images/web-designing-have.jpg" alt="web-designing">
+                        <img src="images/web-designing-have.jpg" alt="web-designing">
 
                         <div class="shape">
                             <img src="assets/img/shape/anim-5.png" alt="Shape">
@@ -116,7 +116,7 @@ include("header.php")
                             <div class="about-style-one col-xl-5 offset-xl-1 col-lg-6 offset-lg-1">
                                 <div class="about-thumb">
                                     <img class="wow fadeInRight" src="images/web-designing-virtual.jpg"
-                                        alt="Image Not Found">
+                                        alt="web-designing-virtual">
 
                                 </div>
 
@@ -140,7 +140,7 @@ include("header.php")
                                     <div class="pricing-style-one"
                                         style="background-image: url(assets/img/shape/15.webp);">
                                         <div class="pricing-header">
-                                            <h4>Responsive websites</h4><img src="images/web-designing-responsive.jpg">
+                                            <h4>Responsive websites</h4><img src="images/web-designing-responsive.jpg" alt="web-designing-responsive">
                                             <p><br>
                                                 Experience the magic of aesthetic, symmetric and pleasantly organised
                                                 websites! Our designs enhance the perceptions of efficiency and
@@ -161,7 +161,7 @@ include("header.php")
                                     <div class="pricing-style-one"
                                         style="background-image: url(assets/img/shape/15.webp);">
                                         <div class="pricing-header">
-                                            <h4> Premium websites</h4><img src="images/web-designing-premium.jpg">
+                                            <h4> Premium websites</h4><img src="images/web-designing-premium.jpg" alt="web-designing-premium">
                                             <p>
 
                                                 Our Premium websites are custom designed to strategically meet with your
