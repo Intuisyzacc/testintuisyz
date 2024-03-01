@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
 
+  <meta name="description" content=" Intuisyz Technology provides you best responsive view for your mobiles and tablets ,in addition with website view.">
     <!-- ========== Page Title ========== -->
-    <title>Web-design-responsive</title>
+    <title>Responsive web Design | Intuisyz technology</title>
 
     <!-- ========== Favicon Icon ========== -->
    <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
