@@ -6,11 +6,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-
-    <!-- ========== Page Title ========== -->
-   
-       <title>IT Outsourcing | Mobile & Web Application Development Examples</title>
+      <title>IT outsourcing Case study | Intuisyz Technology</title>
+         <meta name="description" content="Low cost project development for onshore and offshore companies. IT Outsourcing projects from the US for web and mobile application development.">
+    <meta name="keywords" content="responsive web design, responsive website design company, web developers, software developers, web design price">
+    <meta property="og:title" content="IT outsourcing Case study | Intuisyz Technology">
+    <meta property="og:description" content="Intuisyz Technology's outsourcing case study illustrates their effective use of outsourcing strategies, demonstrating streamlined processes and heightened efficiency in delivering top-notch IT solutions for clients.">
+    <meta property="twitter:title" content="IT outsourcing Case study | Intuisyz Technology">
+    <meta property="twitter:description" content="Intuisyz Technology's outsourcing case study illustrates their effective use of outsourcing strategies, demonstrating streamlined processes and heightened efficiency in delivering top-notch IT solutions for clients.">
+    
     <!-- ========== Favicon Icon ========== -->
      <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
