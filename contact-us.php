@@ -6,10 +6,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-
-    <!-- ========== Page Title ========== -->
-  <title>Contact Best SEO Company Intuisyz | Digital Marketing Company India</title>
+    <title>Intuisyz Technology | Contact us</title>
+<meta name="description" content="Contact Intuisyz Technologies for a conversation on enhancing your digital presence. We look forward to discussing how we can improve your online experience through phone, text, or chat dialogue.">
+<meta name="keywords" content="web design services kochi, software company in kerala, web design price, website design for company">
+<meta property="og:title" content="Intuisyz Technology | Contact us">
+  <meta property="og:description" content="Contact Intuisyz Technologies for a conversation on enhancing your digital presence. We look forward to discussing how we can improve your online experience through phone, text, or chat dialogue.">
+  <meta property="twitter:title" content="Intuisyz Technology | Contact us">
+  <meta property="twitter:description" content="Contact Intuisyz Technologies for a conversation on enhancing your digital presence. We look forward to discussing how we can improve your online experience through phone, text, or chat dialogue.">
 
     <!-- ========== Favicon Icon ========== -->
    <link rel="shortcut icon" href="/images/intui-newlg.png" type="image/x-icon">
