@@ -50,7 +50,7 @@
         ?>
 
     <!-- End Headerg -->
-    <img src="images/google-ad-banner.webp"><br>
+    <img src="images/google-ad-banner.webp" alt="google-ad-banner"><br>
     <div class="site-heading text-center">
         <h3 class="sub-heading"> Google Advertisement is a very effective marketing tool,
             even for small businesses
@@ -230,8 +230,8 @@
                                                     <div class="col-xl-6 col-md-6 single-item">
                                                         <div class="blog-style-one">
                                                             <div class="thumb">
-                                                                <a href="customer_story.php"><img
-                                                                        src="images/kalyan-google-ad.webp" alt="Thumb"></a>
+                                                                  <a href="customer_story.php"><img
+                                                                        src="images/kalyan-google-ad.webp" alt="kalyan-jwellers"></a>
                                                             </div>
 
                                                         </div>
@@ -243,7 +243,7 @@
                                                             <div class="thumb">
                                                                 <a href="customer_story.php"><img
                                                                         src="images/kalyan-developers-ad.webp"
-                                                                        alt="Thumb"></a>
+                                                                        alt="kalyan-developers-ad"></a>
                                                             </div>
 
                                                         </div>
