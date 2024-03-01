@@ -6,11 +6,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-
-    <!-- ========== Page Title ========== -->
-  <title>Web Design examples | Website design and development | Interactive design</title>
-    <!-- ========== Favicon Icon ========== -->
+     <title>Webdesign Case Study | Intuisyz Technology</title>
+   <meta name="description" content="Intuisyz Technology's web design case study highlights their proficiency in crafting visually appealing and functional websites, demonstrating their commitment to delivering tailored solutions that meet the unique needs of their clients.">
+    <meta name="keywords" content="mobile application development, mobile app development company, mobile app development companies">
+    <meta property="og:title" content="Webdesign Case Study | Intuisyz Technology">
+    <meta property="og:description" content="Intuisyz Technology's web design case study highlights their proficiency in crafting visually appealing and functional websites, demonstrating their commitment to delivering tailored solutions that meet the unique needs of their clients.">
+    <meta property="twitter:title" content="Webdesign Case Study | Intuisyz Technology">
+    <meta property="twitter:description" content="Intuisyz Technology's web design case study highlights their proficiency in crafting visually appealing and functional websites, demonstrating their commitment to delivering tailored solutions that meet the unique needs of their clients.">
+    <meta http-equiv="Content-Language" content="en-us" />
+      <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
 
