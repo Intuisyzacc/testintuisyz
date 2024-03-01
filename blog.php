@@ -13,15 +13,15 @@
   
 
     <!-- ========== Page Title ========== -->
-<title>Intuisyz Digital Marketing Blog for New Digital Marketing Strategies</title>
-<meta name="description" content="Updates in new digital marketing strategy & Trends in SEO. Intuisyz brings you SEO,SMO,PPC,Performance Marketing strategies to grow your online business.">
+<title>Intuisyz Technologies | Blogs</title>
+<meta name="description" content="List of Blogs from Intuisyz">
 <meta name="keywords" content="web design services kochi, software company in kerala, web design price, website design for company">
-<meta property="og:title" content="Intuisyz Digital Marketing Blog for New Digital Marketing Strategies">
-  <meta property="og:description" content="Updates in new digital marketing strategy & Trends in SEO. Intuisyz brings you SEO,SMO,PPC,Performance Marketing strategies to grow your online business.">
-  <meta property="og:image" content="https://intuisyz.com/images/blo-b.jpeg">
-  <meta property="twitter:title" content="Intuisyz Digital Marketing Blog for New Digital Marketing Strategies">
-  <meta property="twitter:description" content="Updates in new digital marketing strategy & Trends in SEO. Intuisyz brings you SEO,SMO,PPC,Performance Marketing strategies to grow your online business.">
-  <meta property="twitter:image" content="https://intuisyz.com/images/blo-b.jpeg">
+<meta property="og:title" content="Intuisyz Technologies | Blogs">
+  <meta property="og:description" content="List of Blogs from Intuisyz">
+ 
+  <meta property="twitter:title" content="Intuisyz Technologies | Blogs">
+  <meta property="twitter:description" content="List of Blogs from Intuisyz">
+
 <meta http-equiv="Content-Language" content="en-us" />
 
 <meta name="author" content="INIUISYZ Technologies" />
