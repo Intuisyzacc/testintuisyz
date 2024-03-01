@@ -6,10 +6,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+     <meta name="description" content="Intuisyz Technologies is among the best Conversion Rate Optimization (CRO) service companies in India. To achieve  conversion rate optimization, book with Intuisyz Technologies soon.">
+  <meta property="og:title" content="CRO Service Company India | Intuisyz Technologies" />
+  <meta property="og:description" content="Intuisyz Technologies is among the best Conversion Rate Optimization (CRO) service companies in India. To achieve  conversion rate optimization, book with Intuisyz Technologies soon." />
+  <meta property="og:url" content="https://intuisyz.com/coversion-rate-optimization.php" />
+    <meta property="twitter:title" content="CRO Service Company India | Intuisyz Technologies" />
+  <meta property="twitter:description" content="Intuisyz Technologies is among the best Conversion Rate Optimization (CRO) service companies in India. To achieve  conversion rate optimization, book with Intuisyz Technologies soon." />
     <!-- ========== Page Title ========== -->
-    <title>Conversion Rate Optimization | Digital Marketing | CRO</title>
+    <title>CRO Service Company India | Intuisyz Technologies</title>
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
