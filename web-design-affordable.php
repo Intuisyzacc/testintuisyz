@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
+     <meta name="description" content="Intisyz Technology stands out as an affordable website design company, offering cost-effective solutions without compromising on quality, making professional web presence accessible to businesses of all sizes.">
 
     <!-- ========== Page Title ========== -->
-    <title>Web-design-affordable</title>
+    <title>Affordable website Design Company| Intuisyz Technology</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
