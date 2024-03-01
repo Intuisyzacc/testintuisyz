@@ -6,11 +6,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
-
+    
     <!-- ========== Page Title ========== -->
-     <title>Mobile App Development Kochi | IOS App Development Kerala</title>
-
+  <title>Best Mobile App Development Company Kerala| Intuisyz Technology</title>
+ <meta name="description" content="Intuisyz Technologies is one of the  best mobile app development company in Kerala, specializing in meticulously crafting mobile and web applications">
+    <meta name="keywords" content="Online Crm Software For Managing Your Sales, Marketing, Customer Support, And Inventory In A Single System, Sales Management, Report, Project Management, Task Management">
+    <meta property="og:title" content="Best Mobile App Development Company Kerala| Intuisyz Technology">
+    <meta property="og:description" content="Intuisyz Technologies is one of the  best mobile app development company in Kerala, specializing in meticulously crafting mobile and web applications">
+    <meta property="twitter:title" content="Best Mobile App Development Company Kerala| Intuisyz Technology">
+    <meta property="twitter:description" content="Intuisyz Technologies is one of the  best mobile app development company in Kerala, specializing in meticulously crafting mobile and web applications">
+    
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
@@ -93,7 +98,7 @@ include("header.php")
                         <!-- Single Itme -->
                         <div class="feature-style-one wow fadeInUp">
                             <div>
-                                <i><img src="images/mobile-app-icon.jpg" height="50%" width="250px"></i>
+                                <i><img src="images/mobile-app-icon.jpg" height="50%" width="250px" alt="mobile-app"></i>
                             </div>
                             <div class="info">
                                 <h4>Android Mobile App Development</h4>
@@ -105,7 +110,7 @@ include("header.php")
                                 </p>
                             </div>
                             <div>
-                                <i><img src="images/mobile-app-icon1.jpg" height="50%" width="200px"></i>
+                                <i><img src="images/mobile-app-icon1.jpg" height="50%" width="200px"  alt="mobile-app"></i>
                             </div>
                             <div class="info">
                                 <h4> iOS Mobile App Development</h4>
@@ -133,7 +138,7 @@ include("header.php")
                                 <div class="col-xl-6 col-md-6 single-item">
                                     <div class="blog-style-one">
                                         <div class="thumb">
-                                            <a href="#"><img src="images/mobile-app.jpg" alt="Thumb"></a>
+                                            <a href="#"><img src="images/mobile-app.jpg" alt="mobile-app"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -142,7 +147,7 @@ include("header.php")
                                 <div class="col-xl-6 col-md-6 single-item">
                                     <div class="blog-style-one">
                                         <div class="thumb">
-                                            <a href="#"><img src="images/mobile-app1.jpg" alt="Thumb"></a>
+                                            <a href="#"><img src="images/mobile-app1.jpg" alt="mobile-app"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -189,7 +194,7 @@ include("header.php")
 
                                             <div class="col-lg-5 about-style-two">
                                                 <div class="thumb">
-                                                    <img src="images/mobile-app-a1.jpg" alt="Image Not Found">
+                                                    <img src="images/mobile-app-a1.jpg" alt="mobile-app">
 
 
                                                     <div class="shape">
@@ -258,7 +263,7 @@ include("header.php")
 
                                                 <div class="col-lg-5 about-style-two">
                                                     <div class="thumb">
-                                                        <img src="images/mobile-app-a3.jpg" alt="Image Not Found">
+                                                        <img src="images/mobile-app-a3.jpg" alt="mobile-app">
 
 
                                                         <div class="shape">
@@ -319,7 +324,7 @@ include("header.php")
 
                                                     <div class="col-lg-5 about-style-two">
                                                         <div class="thumb">
-                                                            <img src="images/mobile-app-a5.jpg" alt="Image Not Found">
+                                                            <img src="images/mobile-app-a5.jpg" alt="mobile-app">
 
 
                                                             <div class="shape">
