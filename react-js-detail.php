@@ -6,10 +6,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Consua - Consulting Business Template">
 
-    <!-- ========== Page Title ========== -->
- <title>React JS Development Company with HTML,CSS,Javascript,Jquery,Restful api</title>
+ <meta name="description" content="Intuisyz Technology stands out the best React.js development company in Kerala, delivering high-quality outcomes. Book Soon.">
+<meta name="keywords" content="web design services kochi, software company in kerala, web design price, website design for company">
+<meta property="og:title" content="React.js development company in Kerala |Intuisyz Technology">
+<meta property="og:description" content="Intuisyz Technology stands out the best React.js development company in Kerala, delivering high-quality outcomes. Book Soon.">
+   <meta property="og:site_name" content="Intuisyz Technologies">
+<meta property="twitter:title" content="React.js development company in Kerala |Intuisyz Technology">
+<meta property="twitter:description" content="Intuisyz Technology stands out the best React.js development company in Kerala, delivering high-quality outcomes. Book Soon.">
+
+    
+    <title>React.js development company in Kerala |Intuisyz Technology</title>
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
@@ -43,7 +50,7 @@ include("header.php")
     <!-- Start Breadcrumb 
     ============================================= -->
 
-    <img src="images/ith.jpg" alt="Image Not Found" height="50%" width="100%">
+    <img src="images/ith.jpg" alt="Image Not Found" height="50%" width="100%" alt="react-banner">
 
     <!-- End Breadcrumb -->
     <!-- Start About 
@@ -72,7 +79,7 @@ include("header.php")
                 </div>
                 <div class="about-style-one col-xl-5 offset-xl-1 col-lg-6 offset-lg-1">
                     <div class="about-thumb">
-                        <img class="wow fadeInRight" src="images/react-js-img.jpg" alt="Image Not Found">
+                        <img class="wow fadeInRight" src="images/react-js-img.jpg" alt="react-js-img">
 
                         <div class="thumb-shape-bottom wow fadeInDown" data-wow-delay="300ms">
                             <img src="assets/img/shape/anim-3.png" alt="Image Not Found">
