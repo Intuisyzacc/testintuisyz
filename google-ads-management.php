@@ -9,8 +9,18 @@
     <meta name="description" content="Consua - Consulting Business Template">
 
     <!-- ========== Page Title ========== -->
-  <title>Benefits of Google Ads campaign & Review your campaigns for free from Intuisyz</title>
-
+  <title>Google Ads Service Company |Intuisyz Technologies</title>
+<meta name="description" content="Compare Google Ads types - Youtube ads, Local ads, display ads Cost, ROI, lead quality and time for results.">
+  <meta property="og:title" content="Google Ads Service Company |Intuisyz Technologies" />
+	<meta property="og:description" content="Intuisyz Technologies is one of the best google Ads management  service companies in India. Book now to secure a Google Ads service  partnership with Intuisyz Technologies and elevate your brand value." />
+  <meta property="og:url" content="https://intuisyz.com/google-ads-management.php" />
+  <meta property="og:image" content="https://intuisyz.com/images/google-ad-banner.webp" />
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Intuisyz Technologies">
+  <meta property="twitter:title" content="Benefits of Google Ads campaign & Review your campaigns for free from Intuisyz" />
+	<meta property="twitter:description" content="Intuisyz Technologies is one of the best google Ads management  service companies in India. Book now to secure a Google Ads service  partnership with Intuisyz Technologies and elevate your brand value." />
+  <meta property="twitter:url" content="https://intuisyz.com/google-ads-management.php" />
+  <meta property="twitter:image" content="https://intuisyz.com/images/google-ad-banner.webp" />
     <!-- ========== Favicon Icon ========== -->
      <link rel="shortcut icon" href="images/intui-newlg.png" type="image/x-icon">
 
